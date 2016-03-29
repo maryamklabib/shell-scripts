@@ -4,7 +4,7 @@ In the event that you needed a script to do this:
 
  1. Download script  
  1. chmod 755 sysinfo_page
- 1. ./sysinfo_page
+ 1. run ./sysinfo_page
 
     -h 
     -i interactive mode
