@@ -6,12 +6,11 @@ In the event that you needed a script to do this:
  1. `chmod 755 sysinfo_page`
  1. `./sysinfo_page`
 
-   1. -h 
-   1. -i interactive mode
-   1. -f [FILENAME]
+    -h 
+    -i interactive mode
+    -f [FILENAME]
     
-    _If you don't provide name, it is sysinfo_page.html in home directory_
-    _If you do provide a name, it is in the same directory where the script lives_
+    _Default is `sysinfo\_page.html` in home directory._
     
-And now you can put your system information on the internet for the world to see
+**And now you can put your system information on the internet for the world to see**
     
