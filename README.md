@@ -5,6 +5,7 @@ In the event that you needed a script to do this:
 1) Download script  
 2) chmod 755 sysinfo_page
 3) ./sysinfo_page
+
     -h 
     -i interactive mode
     -f [FILENAME]
