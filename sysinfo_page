@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# sysinfo_page - A script to produce an HTML file with system information.
+# sysinfo_page - script to produce an HTML file with system information.
 
 ##### Constants
 
